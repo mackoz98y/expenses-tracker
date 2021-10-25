@@ -1,0 +1,15 @@
+C:\Users\macko\OneDrive\C#\ExpensesTracker\ExpensesTracker\bin\Debug\netcoreapp3.1\ExpensesTracker.exe
+C:\Users\macko\OneDrive\C#\ExpensesTracker\ExpensesTracker\bin\Debug\netcoreapp3.1\ExpensesTracker.deps.json
+C:\Users\macko\OneDrive\C#\ExpensesTracker\ExpensesTracker\bin\Debug\netcoreapp3.1\ExpensesTracker.runtimeconfig.json
+C:\Users\macko\OneDrive\C#\ExpensesTracker\ExpensesTracker\bin\Debug\netcoreapp3.1\ExpensesTracker.runtimeconfig.dev.json
+C:\Users\macko\OneDrive\C#\ExpensesTracker\ExpensesTracker\bin\Debug\netcoreapp3.1\ExpensesTracker.dll
+C:\Users\macko\OneDrive\C#\ExpensesTracker\ExpensesTracker\bin\Debug\netcoreapp3.1\ExpensesTracker.pdb
+C:\Users\macko\OneDrive\C#\ExpensesTracker\ExpensesTracker\obj\Debug\netcoreapp3.1\ExpensesTracker.csproj.AssemblyReference.cache
+C:\Users\macko\OneDrive\C#\ExpensesTracker\ExpensesTracker\obj\Debug\netcoreapp3.1\ExpensesTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macko\OneDrive\C#\ExpensesTracker\ExpensesTracker\obj\Debug\netcoreapp3.1\ExpensesTracker.AssemblyInfoInputs.cache
+C:\Users\macko\OneDrive\C#\ExpensesTracker\ExpensesTracker\obj\Debug\netcoreapp3.1\ExpensesTracker.AssemblyInfo.cs
+C:\Users\macko\OneDrive\C#\ExpensesTracker\ExpensesTracker\obj\Debug\netcoreapp3.1\ExpensesTracker.csproj.CoreCompileInputs.cache
+C:\Users\macko\OneDrive\C#\ExpensesTracker\ExpensesTracker\obj\Debug\netcoreapp3.1\ExpensesTracker.dll
+C:\Users\macko\OneDrive\C#\ExpensesTracker\ExpensesTracker\obj\Debug\netcoreapp3.1\ExpensesTracker.pdb
+C:\Users\macko\OneDrive\C#\ExpensesTracker\ExpensesTracker\obj\Debug\netcoreapp3.1\ExpensesTracker.genruntimeconfig.cache
+C:\Users\macko\OneDrive\C#\ExpensesTracker\ExpensesTracker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
